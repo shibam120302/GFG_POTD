@@ -1,4 +1,4 @@
-# DSA_Journey BY-SHIBAM NATH❤❤
+# GFG POTD DSA_Journey BY-SHIBAM NATH❤❤
 
 
 ![DSA](https://media4.giphy.com/media/xUPGcLI1KUhsTJmzba/giphy.gif?cid=ecf05e47bry7c2qudpp07fynm2yipm2l7ckonozd74r8750k&rid=giphy.gif&ct=g)
