@@ -1,5 +1,5 @@
 # GFG POTD DSA_Journey BY-SHIBAM NATH❤❤
-
+https://practice.geeksforgeeks.org/problem-of-the-day
 
 ![gfg](https://media.geeksforgeeks.org/img-practice/Problemofthedaynewcopy-1637640589.png)
 
