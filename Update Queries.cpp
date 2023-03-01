@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution{
     public:
     vector<int> int_to_bin(int n){
@@ -48,25 +45,3 @@ class Solution{
             return ans;
         }
 };
-
-int main()
-{
-    int t;
-    cin>>t;
-    while(t--)
-    {
-        int n,q;
-        cin>>n>>q;
-        vector <vector <int>> u(q,vector <int>(3));
-        for(int i=0;i<q;i++)
-            cin>>u[i][0]>>u[i][1]>>u[i][2];
-        Solution a;
-        vector <int> ans=a.updateQuery(n,q,u);//<<endl;
-        for(auto j:ans)
-        {
-            cout<<j<<" ";
-        }
-        cout<<endl;
-    }
-    return 0;
-}
